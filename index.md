@@ -76,15 +76,17 @@
     <div class="page-background"></div>
 
     <header>
-        <h1>John Doe</h1>
-        <p>Cybersecurity Specialist | 5+ Years of Experience</p>
+        <h1>Antonio Sharp</h1>
+        <p>Cybersecurity Specialist | 12+ Years of Experience</p>
     </header>
 
     <section>
         <h2 class="section-title">Virtual Lab Projects</h2>
         <ul>
             <li>Project 1: Privileged Access Management Simulation</li>
+            
             <li>Project 2: Cybersecurity Compliance Dashboard</li>
+            
             <li>Project 3: Vulnerability Assessment Toolkit</li>
         </ul>
     </section>
