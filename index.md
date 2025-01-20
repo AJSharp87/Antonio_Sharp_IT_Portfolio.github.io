@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Linkedin Profile]([[./another-page.html]](https://www.linkedin.com/in/antonio-sharp-4a065375/).
+[Linkedin Profile]([[./another-page.html](https://www.linkedin.com/in/antonio-sharp-4a065375/)]
 
 There should be whitespace between paragraphs.
 
