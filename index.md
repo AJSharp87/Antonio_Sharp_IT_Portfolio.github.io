@@ -84,9 +84,7 @@
         <h2 class="section-title">Virtual Lab Projects</h2>
         <ul>
             <li>Project 1: Privileged Access Management Simulation</li>
-            
             <li>Project 2: Cybersecurity Compliance Dashboard</li>
-            
             <li>Project 3: Vulnerability Assessment Toolkit</li>
         </ul>
     </section>
@@ -103,7 +101,7 @@
 
     <section>
         <h2 class="section-title">Connect with Me</h2>
-        <a href="https://www.linkedin.com/in/johndoe" class="button">LinkedIn</a>
+        <a href="[https://www.linkedin.com/in/antonio-sharp-4a065375/]" class="button">LinkedIn</a>
         <a href="https://github.com/johndoe" class="button">GitHub</a>
         <a href="https://twitter.com/johndoe" class="button">Twitter</a>
     </section>
