@@ -102,8 +102,8 @@
     <section>
         <h2 class="section-title">Connect with Me</h2>
         <a href="[https://www.linkedin.com/in/antonio-sharp-4a065375/]" class="button">LinkedIn</a>
-        <a href="https://github.com/johndoe" class="button">GitHub</a>
-        <a href="https://twitter.com/johndoe" class="button">Twitter</a>
+        <a href="[https://ajsharp87.github.io/Cyber_Security_Specialist_Portfolio.github.io./]" class="button">GitHub</a>
+        <a href="Coming Soon" class="button">Twitter</a>
     </section>
 
     <footer>
