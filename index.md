@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Nice to have you here to view my Progress. Below you will fin various Virtual Labs, Examples, and Research for my Security Practices regarding `**Information Security**` and Compliance **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Linkedin Profile]([[./another-page.html](https://www.linkedin.com/in/antonio-sharp-4a065375/)]
 
