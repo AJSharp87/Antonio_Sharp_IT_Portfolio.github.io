@@ -1,125 +1,122 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            color: #333;
+        }
+        header {
+            background-image: url('banner-top.png'); /* Replace with your top banner image */
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .section-title {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        .button {
+            display: inline-block;
+            margin: 5px 10px;
+            padding: 10px 15px;
+            background-color: #007acc;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 1em;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #005fa3;
+        }
+        footer {
+            background-image: url('banner-bottom.png'); /* Replace with your bottom banner image */
+            background-size: cover;
+            background-position: center;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+        .page-background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background-image: url('—Pngtree—anti-fraud fraud fraud prevention cyber_932093.jpg'); /* Replace with your background image */
+            background-size: cover;
+            background-position: center;
+            opacity: 0.3;
+        }
+    </style>
+</head>
+<body>
+    <div class="page-background"></div>
 
-Nice to have you here to view my Progress. Below you will fin various Virtual Labs, Examples, and Research for my Security Practices regarding `**Information Security**` and Compliance.
+    <header>
+        <h1>John Doe</h1>
+        <p>Cybersecurity Specialist | 5+ Years of Experience</p>
+    </header>
 
-**bold**., _italic_, ~~strikethrough~~ or `keyword`.
+    <section>
+        <h2 class="section-title">Virtual Lab Projects</h2>
+        <ul>
+            <li>Project 1: Privileged Access Management Simulation</li>
+            <li>Project 2: Cybersecurity Compliance Dashboard</li>
+            <li>Project 3: Vulnerability Assessment Toolkit</li>
+        </ul>
+    </section>
 
-[Linkedin Profile]([[./linkedin_Profile.html](https://www.linkedin.com/in/antonio-sharp-4a065375/)]
+    <section>
+        <h2 class="section-title">Insights on Information Security</h2>
+        <h3>Compliance</h3>
+        <p>Compliance ensures adherence to industry standards such as GDPR, HIPAA, and NIST frameworks.</p>
+        <h3>Accessibility</h3>
+        <p>Accessibility in security tools empowers diverse teams to utilize resources effectively.</p>
+        <h3>Governance</h3>
+        <p>Governance structures establish clear accountability and process consistency in cybersecurity initiatives.</p>
+    </section>
 
-There should be whitespace between paragraphs.
+    <section>
+        <h2 class="section-title">Connect with Me</h2>
+        <a href="https://www.linkedin.com/in/johndoe" class="button">LinkedIn</a>
+        <a href="https://github.com/johndoe" class="button">GitHub</a>
+        <a href="https://twitter.com/johndoe" class="button">Twitter</a>
+    </section>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+    <footer>
+        <p>&copy; 2025 John Doe. All rights reserved.</p>
+    </footer>
 
-# Senior Information Security Analyst
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-<img src="(—Pngtree—anti-fraud fraud fraud prevention cyber_932093.jpg)">
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+    <script>
+        // Add interactivity for future updates
+        document.querySelectorAll('.button').forEach(button => {
+            button.addEventListener('click', () => {
+                alert('Navigating to: ' + button.href);
+            });
+        });
+    </script>
+</body>
+</html>
