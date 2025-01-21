@@ -13,7 +13,7 @@
             color: #333;
         }
         header {
-            background-image: url('banner-top.png'); /* Replace with your top banner image */
+            background-image: url('b—Pngtree—anti-fraud fraud fraud prevention cyber_932093.jpg'); /* Replace with your top banner image */
             background-size: cover;
             background-position: center;
             color: white;
